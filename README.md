@@ -6,7 +6,7 @@
 ## Description
 FinanceManager is an online budgeting tool that allows you to keep track of your income, spending, and investments. This project leverages Blazor WASM, .NET Core, and MudBlazor to provide an efficient and user-friendly financial tracking tool.
 
-## Features
+## Features 
 - Intuitive dashboard design
 - Asset management
 - Account tracking for cash, shares, ETF, real estate, and more
